@@ -31,9 +31,6 @@ VroomVille is a single-player racing experience where the player selects a car a
 - 🎨 **UI & Menu Design**  
   Main menu with circuit selection, car selection, and polished fonts for a cleaner look.  
 
-- 🚘 **Car Selection**  
-  Two playable cars, each with its own design and feel.  
-
 - 🧭 **Lap Logic**  
   Lap system only progresses if the player drives through a midpoint and then completes a full loop—preventing lap skipping or reverse exploits.  
 
