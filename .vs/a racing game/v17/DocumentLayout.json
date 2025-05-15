@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\is2587\\NYU_Games_S25\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\NYU_Games_S25_R\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D61F915-A767-850C-BA27-A9B0495EF138}|Assembly-CSharp.csproj|d:\\nyu_games_s25_r\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\assets\\scripts\\lapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D61F915-A767-850C-BA27-A9B0495EF138}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D61F915-A767-850C-BA27-A9B0495EF138}|Assembly-CSharp.csproj|d:\\nyu_games_s25_r\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\assets\\scripts\\laptriggerforwarder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D61F915-A767-850C-BA27-A9B0495EF138}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\laptriggerforwarder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LapTriggerForwarder.cs",
+              "DocumentMoniker": "D:\\NYU_Games_S25_R\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\Assets\\Scripts\\LapTriggerForwarder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LapTriggerForwarder.cs",
+              "ToolTip": "D:\\NYU_Games_S25_R\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\Assets\\Scripts\\LapTriggerForwarder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LapTriggerForwarder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:20:17.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LapManager.cs",
+              "DocumentMoniker": "D:\\NYU_Games_S25_R\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\Assets\\Scripts\\LapManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LapManager.cs",
+              "ToolTip": "D:\\NYU_Games_S25_R\\m2-3d-racing-game\\m2-template-race-game\\a racing game\\Assets\\Scripts\\LapManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LapManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywD0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T17:25:09.266Z",
+              "EditorCaption": ""
             }
           ]
         }
