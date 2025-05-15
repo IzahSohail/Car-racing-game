@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class LapManager : MonoBehaviour
 {
     public int lapCount = 0;
-    public int maxLaps = 3;
+    public int maxLaps = 1;
     public TMP_Text lapText;
     public GameObject gameOverPanel;
 
@@ -60,7 +60,7 @@ public class LapManager : MonoBehaviour
             {
                 raceEnded = true;
                 Debug.Log("Race Finished!");
-                if (gameOverPanel != null) gameOverPanel.SetActive(true);
+                gameOverPanel.SetActive(true);
             }
         }
     }
