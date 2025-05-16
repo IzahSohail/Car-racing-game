@@ -29,7 +29,7 @@ VroomVille is a single-player racing experience where the player selects a car a
   Added sound effects to enhance the gameplay feel (engine, finish line, etc.).  
 
 - 🎨 **UI & Menu Design**  
-  Main menu with circuit selection, car selection, and polished fonts for a cleaner look.  
+  Main menu with circuit selection.  
 
 - 🧭 **Lap Logic**  
   Lap system only progresses if the player drives through a midpoint and then completes a full loop—preventing lap skipping or reverse exploits.  
@@ -59,7 +59,7 @@ VroomVille is a single-player racing experience where the player selects a car a
 
 ## 🛠️ How to Play
 
-1. Launch the game
+1. Launch the game by loading main scene from `Assets/Scenes/MainMenu.unity`
 2. Choose the circuit you wish to play 
 3. Complete 3 laps while monitoring your speed and lap count  
 4. On the final lap, the game ends and offers you a return to the main menu  
